@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		352A8702227529640080D5A7 /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 352A8701227529640080D5A7 /* ProductCell.swift */; };
 		353216202273DF4600782C3B /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3532161F2273DF4600782C3B /* Category.swift */; };
 		353216232273E02300782C3B /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353216222273E02300782C3B /* DataService.swift */; };
 		35F3655B22419F6800E7467C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35F3655A22419F6800E7467C /* AppDelegate.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		352A8701227529640080D5A7 /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
 		3532161F2273DF4600782C3B /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		353216222273E02300782C3B /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		35F3655722419F6800E7467C /* CoderSwag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoderSwag.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -101,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				35F365702243089B00E7467C /* CategoryCell.swift */,
+				352A8701227529640080D5A7 /* ProductCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				35F3655D22419F6800E7467C /* CategoriesVC.swift in Sources */,
 				35F365712243089B00E7467C /* CategoryCell.swift in Sources */,
 				35F3655B22419F6800E7467C /* AppDelegate.swift in Sources */,
+				352A8702227529640080D5A7 /* ProductCell.swift in Sources */,
 				353216202273DF4600782C3B /* Category.swift in Sources */,
 				353216232273E02300782C3B /* DataService.swift in Sources */,
 			);
