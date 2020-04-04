@@ -18,4 +18,5 @@ class ProductCell: UICollectionViewCell {
         productTitle.text = product.title
         productPrice.text = product.price
     }
+    
 }
